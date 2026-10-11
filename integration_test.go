@@ -4,7 +4,7 @@
 package notify_test
 
 import (
-	"notify"
+	"github.com/dev-maz/notify"
 	"testing"
 )
 
